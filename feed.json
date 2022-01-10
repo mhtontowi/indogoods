@@ -1,0 +1,165 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "IndoGoods",
+    "description": "",
+    "home_page_url": "https://mirzailham.com/indogoods",
+    "feed_url": "https://mirzailham.com/indogoods/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "IndoGoods"
+    },
+    "items": [
+        {
+            "id": "https://mirzailham.com/indogoods/impressum.html",
+            "url": "https://mirzailham.com/indogoods/impressum.html",
+            "title": "Impressum",
+            "summary": "Angaben gemäß § 5 TMG: Herausgeber Nusantara UG Turmstraße 18 10559 Berlin Vertreten durch: GF: Bram Fernardin Telefon: +49 (0)30&hellip;",
+            "content_html": "<h3><span class=\"impressum-subtitle contact__initial\" style=\"color: #e03e2d;\">Angaben gemäß § 5 TMG:</span></h3>\n<p><strong>Herausgeber</strong><br>Nusantara UG<br>Turmstraße 18<br>10559 Berlin<br><br><strong>Vertreten durch:</strong><br>GF: Bram Fernardin</p>\n<h3><span class=\"impressum-subtitle contact__initial\" style=\"color: #e03e2d;\">Kontakt</span></h3>\n<p class=\"contact__description\">Telefon: +49 (0)30 – 966 00 331<br>Email: <a href=\"mailto:info@nusantara-markt.com\">info@nusantara-markt.com</a></p>\n<h3><span class=\"impressum-subtitle contact__initial\" style=\"color: #e03e2d;\">Umsatzsteuer-ID</span></h3>\n<p class=\"contact__description\">Umsatzsteuer-Identifikationsnummer<br>gemäß §27 a Umsatzsteuergesetz:<br><br>34/285/00956</p>\n<h3><span class=\"impressum-subtitle contact__initial\" style=\"color: #e03e2d;\">EU-Streitschlichtung</span></h3>\n<p class=\"contact__description\">Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:<br><a href=\"https://ec.europa.eu/consumers/odr\">https://ec.europa.eu/consumers/odr</a><br><br>Unsere E-Mail-Adresse finden Sie oben im Impressum.</p>",
+            "author": {
+                "name": "IndoGoods"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-10T09:53:37+01:00",
+            "date_modified": "2022-01-10T09:53:37+01:00"
+        },
+        {
+            "id": "https://mirzailham.com/indogoods/about-us.html",
+            "url": "https://mirzailham.com/indogoods/about-us.html",
+            "title": "About Us",
+            "summary": "Background As one of the 20 countries with the largest economic growth and the most muslim-populated country in the world,&hellip;",
+            "content_html": "<h2>Background</h2>\n<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://mirzailham.com/indogoods/media/posts/9/about_1.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://mirzailham.com/indogoods/media/posts/9/responsive/about_1-xs.jpg 384w ,https://mirzailham.com/indogoods/media/posts/9/responsive/about_1-sm.jpg 600w ,https://mirzailham.com/indogoods/media/posts/9/responsive/about_1-md.jpg 768w ,https://mirzailham.com/indogoods/media/posts/9/responsive/about_1-lg.jpg 1200w\"  alt=\"\" width=\"800\" height=\"800\"></figure>\n<p class=\"about__description\">As one of the 20 countries with the largest economic growth and the most muslim-populated country in the world, we believe that Indonesia has the potential to penetrate European Market through Halal and Asian products.</p>\n<p class=\"about__description\">We want to empower small and micro business in Indonesia, especially Pesantren-backed business, to actively contribute and promote their products in European Market and become one of the most valuable assets for Indonesian economy.</p>\n<p> </p>\n<h2>What To Do</h2>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mirzailham.com/indogoods/media/posts/9/about_2.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://mirzailham.com/indogoods/media/posts/9/responsive/about_2-xs.jpg 384w ,https://mirzailham.com/indogoods/media/posts/9/responsive/about_2-sm.jpg 600w ,https://mirzailham.com/indogoods/media/posts/9/responsive/about_2-md.jpg 768w ,https://mirzailham.com/indogoods/media/posts/9/responsive/about_2-lg.jpg 1200w\"  alt=\"\" width=\"800\" height=\"800\"></figure>\n<p>To reach that vision, we founded Nusantara UG, the company that will help small and micro businesses in Indonesia to market and distribute their products in Europe and stands as their partner. We also believe that Nusantara UG will be the embodiment for that spirit and vision.</p>\n<p> </p>\n<h2>Impact</h2>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mirzailham.com/indogoods/media/posts/9/about_3.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://mirzailham.com/indogoods/media/posts/9/responsive/about_3-xs.jpg 384w ,https://mirzailham.com/indogoods/media/posts/9/responsive/about_3-sm.jpg 600w ,https://mirzailham.com/indogoods/media/posts/9/responsive/about_3-md.jpg 768w ,https://mirzailham.com/indogoods/media/posts/9/responsive/about_3-lg.jpg 1200w\"  alt=\"\" width=\"800\" height=\"800\"></figure>\n<p class=\"about__description\">Together, we believe that we could build a sustainable economic ecosystem for the small and micro businesses in Indonesia. This would impact not only Indonesian market capital and income, but also to build the spirit to innovate and develop Indonesian products.</p>\n<p>We believe that this will be a steppingstone to mass introduce Indonesian products in European Market.</p>",
+            "author": {
+                "name": "IndoGoods"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-09T22:59:48+01:00",
+            "date_modified": "2022-01-09T22:59:48+01:00"
+        },
+        {
+            "id": "https://mirzailham.com/indogoods/indonesian-herbs-and-spices.html",
+            "url": "https://mirzailham.com/indogoods/indonesian-herbs-and-spices.html",
+            "title": "Indonesian Herbs and Spices",
+            "summary": "Indonesian cuisine is rich in spice and herbs. From the simplest dish like Sambal to the complicated, slow-cooked Rendang, herbs&hellip;",
+            "content_html": "<p class=\"blogs_p\">Indonesian cuisine is rich in spice and herbs. From the simplest dish like Sambal to the complicated, slow-cooked Rendang, herbs are indeed important ingredients to add flavor and aroma to the foods.</p>\n<p class=\"blogs_p\">Although it seems that Indonesian cooking is very difficult, it’s not really true. In fact it’s really easy, if you know the types of herbs you are going to use in the cooking, and how to use them.</p>\n<p class=\"blogs_p\">Below are some of the essential herbs (Bahasa: bumbu dapur) used in Indonesian dishes, that you might be not familiar with:</p>\n<h3 class=\"blogs_h3\">Tamarind (Asam)</h3>\n<figure class=\"blogs__img\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_001/tamarind.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">Asam or tamarind is a main herb for Sayur Asam. It is also commonly used to get rid of fishy aroma in seafood. The right way to use tamarind in Indonesian foods is by soaking tamarind in warm water, and straining the water from its residue.</p>\n<h3 class=\"blogs_h3\">Kaffir Lime Leaves (Daun Jeruk Purut)</h3>\n<figure class=\"blogs__img\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_001/kaffir.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">The leaves have a subtle fragrance which gives a distinctive taste to many lemon grass based dishes, such as Soto, Rawon, Rendang, and certain types of coconut milk-based dishes. Usually, kaffir lime leaves are used along with lemongrass, bay leaves, and galangal.</p>\n<h3 class=\"blogs_h3\">Bay Leaves (Daun Salam)</h3>\n<figure class=\"blogs__img\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_001/bay.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">Like kaffir lime leaves, bay leaf also gives a subtle flavor to dishes. This leaf is used in many Indonesian dishes. You can find this leaf in traditional markets as well as supermarkets in Indonesia. Bay leaf can be stored for months in a dry and clean place with good air circulation without getting lose some of the flavor and aroma.</p>\n<h3 class=\"blogs_h3\">Aromatic Ginger (Kencur)</h3>\n<figure class=\"blogs__img\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_001/kencur.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">Kencur has smaller size and its skin is slightly darker than ginger. It has a very distinctive aroma compared to other herbs. Usually kencur is used in Sambel Pecel, Sayur Lodeh, Karedok, and Rempeyek (rice flour crackers).</p>\n<h3 class=\"blogs_h3\">Slaked Lime (Kapur Sirih)</h3>\n<figure class=\"blogs__img\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_001/kapursirih.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">Slaked lime is a paste obtained by grinding calcium oxide (lime) mixed (or slaked) with water. To use slaked lime in Indonesian dishes, you need to mix one part of slaked lime with two parts of water. Let it settle for one hour, and use only the clear water part of the mixture for cooking purpose. Usually, slaked lime water is used in order to make food ingredients crispier.</p>\n<h3 class=\"blogs_h3\">Candlenuts (Kemiri)</h3>\n<figure class=\"blogs__img\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_001/kemiri.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">The waxy white kernel cannot be used as a single herb, but must be ground together with other spices like garlic, shallots, chilies, and shrimp paste (terasi). Candlenuts are used as thickening agent for sauces of many Indonesian dishes.</p>\n<h3 class=\"blogs_h3\">Galangal (Lengkuas)</h3>\n<figure class=\"blogs__img\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_001/lengkuas.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">Galangal has a similar texture to ginger, but has different aroma and color. This is also one of the most commonly used herbs in Indonesian dishes. To obtain subtle aroma from galangal, people usually crush or slice galangal to be added to dishes.</p>\n<h3 class=\"blogs_h3\">Kluwak</h3>\n<figure class=\"blogs__img\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_001/kluwak.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">Kluwak or keluwek is the fruit of pangium edule tree which is native to the mangrove swamps of Southeast Asia. Kluwek gives the peculiar black color in Rawon (Javanese beef stew). The Toraja dish pammarrasan (black spice with fish, meat, or vegetable) also uses kluwak powder as the part of its spice.</p>\n<h3 class=\"blogs_h3\">Finger Root (Temu Kunci)</h3>\n<figure class=\"blogs__img\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_001/temu.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">Temu kunci (finger root, lesser galangal, or Chinese ginger) is a medicinal and culinary herb from China and Southeast Asia. In Indonesia, this root is used in Sayur Bening (spinach soup), Urap (vegetable and coconut dish), and certain types of fish soups.</p>",
+            "image": "https://mirzailham.com/indogoods/media/posts/8/blogs_header-1.jpg",
+            "author": {
+                "name": "IndoGoods"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-09T22:52:37+01:00",
+            "date_modified": "2022-01-09T22:52:37+01:00"
+        },
+        {
+            "id": "https://mirzailham.com/indogoods/12-best-indonesian-cuisine.html",
+            "url": "https://mirzailham.com/indogoods/12-best-indonesian-cuisine.html",
+            "title": "12 Best Indonesian Cuisine",
+            "summary": "The variety of Indonesian foods is as diverse as its cultures. Each and every area of Indonesia has its own&hellip;",
+            "content_html": "<p class=\"blogs_p\">The variety of Indonesian foods is as diverse as its cultures. Each and every area of Indonesia has its own specialty foods that you cannot find in anywhere else. Some are seasonal menus that only appear during certain times of the year.</p>\n<p class=\"blogs_p\">Regardless of the diversity of Indonesian culinary, there are some familiar foods that interestingly, many Indonesians cannot live without. Some of these foods are in the must-bring list whenever they go or live abroad for a while.</p>\n<p class=\"blogs_p\">Indonesian food really deserves some time in the limelight, and this post is dedicated to the foods all-time favorites. Oh, these foods are also must-try for anyone who has just landed in Indonesia!</p>\n<h3>Sambal</h3>\n<h2><figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://mirzailham.com/indogoods/media/posts/7/sambal.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://mirzailham.com/indogoods/media/posts/7/responsive/sambal-xs.jpg 384w ,https://mirzailham.com/indogoods/media/posts/7/responsive/sambal-sm.jpg 600w ,https://mirzailham.com/indogoods/media/posts/7/responsive/sambal-md.jpg 768w ,https://mirzailham.com/indogoods/media/posts/7/responsive/sambal-lg.jpg 1200w\"  alt=\"\" width=\"1000\" height=\"444\"></figure></h2>\n<p class=\"blogs_p\">Who doesn’t know Sambal? While this is technically more of a condiment, the chili sauce is a staple at all Indonesian table. Dishes are incomplete without a spoonful of the sauce made of fresh chili, shrimp paste, tomatoes, and sometimes fresh lime juice or young mango flesh.</p>\n<p class=\"blogs_p\">Nowadays you don’t need to crush all of those ingredients with mortar to get the sizzling hot Sambal—there are many ready-to-eat packed Sambals that you can buy at the supermarket. These sambals are packaged in a tight-lidded jar, so you can bring them anywhere or even as souvenirs.</p>\n<h3>Indomie</h3>\n<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://mirzailham.com/indogoods/media/posts/7/indomie.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://mirzailham.com/indogoods/media/posts/7/responsive/indomie-xs.jpg 384w ,https://mirzailham.com/indogoods/media/posts/7/responsive/indomie-sm.jpg 600w ,https://mirzailham.com/indogoods/media/posts/7/responsive/indomie-md.jpg 768w ,https://mirzailham.com/indogoods/media/posts/7/responsive/indomie-lg.jpg 1200w\"  alt=\"\" width=\"1000\" height=\"444\"></figure>\n<p class=\"blogs_p\">Indomie is an Indonesian instant noodle brand. The instant noodle product comes in dozens of flavors, but there is one particular product that everybody just loves: Indomie Goreng or the fried noodle. It tastes so good that even the aroma can wake you up in the morning.</p>\n<p class=\"blogs_p\">Believe it or not, Indonesians who usually bring at least ten packs of Indomie Goreng when they are going abroad. Trivia about Indomie: a restaurant in Australia even offers Indomie Burger as their signature dish.</p>\n<h3>Soto</h3>\n<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://mirzailham.com/indogoods/media/posts/7/soto.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://mirzailham.com/indogoods/media/posts/7/responsive/soto-xs.jpg 384w ,https://mirzailham.com/indogoods/media/posts/7/responsive/soto-sm.jpg 600w ,https://mirzailham.com/indogoods/media/posts/7/responsive/soto-md.jpg 768w ,https://mirzailham.com/indogoods/media/posts/7/responsive/soto-lg.jpg 1200w\"  alt=\"\" width=\"1000\" height=\"444\"></figure>\n<p class=\"blogs_p\">Soto is a type of Indonesian soup that comprises of broth and ingredients that vary across the archipelago. Common type of Soto that you can find on the streets is Soto Lamongan, a Javanese Soto made of clear yellow soup flavored with chicken, eggs, cabbage, and vermicelli.</p>\n<p class=\"blogs_p\">There so many types of Soto in Indonesia, including the “heavier” varieties like Soto Betawi or Coto Makassar, which broth is made of coconut milk.</p>\n<h3>Sate</h3>\n<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://mirzailham.com/indogoods/media/posts/7/sate.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://mirzailham.com/indogoods/media/posts/7/responsive/sate-xs.jpg 384w ,https://mirzailham.com/indogoods/media/posts/7/responsive/sate-sm.jpg 600w ,https://mirzailham.com/indogoods/media/posts/7/responsive/sate-md.jpg 768w ,https://mirzailham.com/indogoods/media/posts/7/responsive/sate-lg.jpg 1200w\"  alt=\"\" width=\"1000\" height=\"444\"></figure>\n<p>Sate or Satay refers to meat skewers cook up over coals, and topped with creamy peanut sauce or sweet soy sauce. You can find this dish in literally anywhere in Indonesia.</p>\n<h3>Gado-Gado</h3>\n<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://mirzailham.com/indogoods/media/posts/7/gado-2.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://mirzailham.com/indogoods/media/posts/7/responsive/gado-2-xs.jpg 384w ,https://mirzailham.com/indogoods/media/posts/7/responsive/gado-2-sm.jpg 600w ,https://mirzailham.com/indogoods/media/posts/7/responsive/gado-2-md.jpg 768w ,https://mirzailham.com/indogoods/media/posts/7/responsive/gado-2-lg.jpg 1200w\"  alt=\"\" width=\"1000\" height=\"444\"></figure>\n<p>This is one of Indonesia’s famous dishes, essentially a cooked vegetable salad. At its base are boiled long beans, spinach or water spinach, corn, carrot, bean sprout, cucumber, and sometimes with fried tofu and tempe. All is topped with the classic peanut sauce.</p>\n<h3>Bakso</h3>\n<figure class=\"blogs__img align-center\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_002/bakso.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">Everyone loves Bakso. This meatball noodle soup gained international fame when Barrack Obama remembered it as one of his favorite during his stay in Jakarta.</p>\n<p class=\"blogs_p\">The balls are usually made of beef, chicken, fish or shrimp and served with noodles, vermicelli, and savory soup. Don’t forget Sambal to add the heat.</p>\n<h3 class=\"blogs_h3\">Nasi Goreng</h3>\n<figure class=\"blogs__img align-center\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_002/nasigoreng.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">Nasi Goreng is kind of like national dish to Indonesia. The Indonesian take of fried rice is often made with sweet, thick soy sauce (Kecap) and garnished with pickled cucumber, Kerupuk, and of course, Sambal.</p>\n<h3 class=\"blogs_h3\">Gorengan</h3>\n<figure class=\"blogs__img align-center\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_002/gorengan.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">Gorengan is considered as the ‘vitamins’ Indonesians need—that pretty much explains how much they love this snack. Gorengan is an assortment of snack fritters made of banana, tofu, tempe, sweet potatoes, or just fried flour dough with vegetables.</p>\n<p class=\"blogs_p\">Once you bit a piece of it, it will be hard to stop.</p>\n<h3 class=\"blogs_h3\">Ayam Goreng</h3>\n<figure class=\"blogs__img align-center\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_002/ayamgoreng.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">Translated as fried chicken, Indonesian Ayam Goreng is nowhere similar with fried chickens from famous international restaurant chain. Ayam Goreng is seasoned with turmeric, basil leaves, coriander, garlic and onions, boiled until tender, and then fried until it’s golden brown.</p>\n<p class=\"blogs_p\">The main attraction of Ayam Goreng is the Sambal that accompanies it. See, where else can you find fried chicken with sizzling hot Sambal, if not in Indonesia?</p>\n<h3 class=\"blogs_h3\">Sambal Goreng Kering</h3>\n<figure class=\"blogs__img align-center\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_002/sambalgoreng.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">Literally translated as Fried Sambal, Sambal Goreng Kering is not the fried version of the hot Sambal. It actually refers to spicy sautéed condiment made of potatoes, tempe, peanuts, or teri (anchovies), or combination of them all.</p>\n<p class=\"blogs_p\">Sambal Goreng Kering can be stored in tight-lidded jar for up to one month, so it explains why many Indonesians bring Sambal Goreng Kering when they go abroad.</p>\n<h3 class=\"blogs_h3\">Martabak Manis</h3>\n<figure class=\"blogs__img align-center\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_002/martabakmanis.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">The thick pancake is definitely everyone’s favorite. The huge pancake is topped with a load of butter and toppings like chocolate sprinkles, cheese, peanuts, and sweet condensed milk.</p>\n<p class=\"blogs_p\">It’s heavenly delicious, but indulging yourself with too much Martabak Manis can cause unhealthy addiction!</p>\n<h3 class=\"blogs_h3\">Rendang</h3>\n<figure class=\"blogs__img align-center\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_002/rendang.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">Why is it voted as the world’s number one food by CNN? The Padang’s most famed curry is beef (or sometimes mutton) simmered for hours in coconut milk gravy and spicy seasoning until tender.</p>\n<p class=\"blogs_p\">Rendang can be found in any Padang restaurants in Indonesia or souvenir stores in West Sumatera. There is also a dried version of Rendang that can be kept for months (like jerky).</p>\n<h3 class=\"blogs_h3\">Bonus: Kerupuk</h3>\n<figure class=\"blogs__img align-center\"><img loading=\"lazy\"  src=\"https://nusantara-markt.com/assets/img/blogs/blogs_002/kerupuk.jpg\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<p class=\"blogs_p\">Kerupuk or crackers are popular condiments for any Indonesian foods. It’s best to accompany soupy dishes like Soto or Bakso, but this crispy condiment literally goes well with any Indonesian foods. The only key is one: the more the merrier!</p>",
+            "image": "https://mirzailham.com/indogoods/media/posts/7/blogs_header.jpg",
+            "author": {
+                "name": "IndoGoods"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-09T22:49:07+01:00",
+            "date_modified": "2022-01-09T22:49:59+01:00"
+        },
+        {
+            "id": "https://mirzailham.com/indogoods/our-shops.html",
+            "url": "https://mirzailham.com/indogoods/our-shops.html",
+            "title": "Our Shops",
+            "summary": "Seasonings: 🛒 Halawa 🛒 Halawa 🛒 Halawa ",
+            "content_html": "<p><strong>Seasonings:</strong><a href=\"#INTERNAL_LINK#/author/halawa\"></a></p>\n<table style=\"border-collapse: collapse; width: 100%; border-style: none;\" border=\"0\">\n<tbody>\n<tr>\n<td class=\"align-left\" style=\"width: 33.3333%;\">🛒 <a href=\"authors/halawa/index.html\">Halawa</a></td>\n<td class=\"align-left\" style=\"width: 33.3333%;\">🛒 <a href=\"authors/halawa/index.html\">Halawa</a></td>\n<td class=\"align-left\" style=\"width: 33.3333%;\">🛒 <a href=\"authors/halawa/index.html\">Halawa</a></td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "IndoGoods"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-09T22:30:25+01:00",
+            "date_modified": "2022-01-09T23:12:34+01:00"
+        },
+        {
+            "id": "https://mirzailham.com/indogoods/halawa-flour.html",
+            "url": "https://mirzailham.com/indogoods/halawa-flour.html",
+            "title": "Halawa Flour",
+            "summary": "Order Item Ingredients Wheat flour, tapioca flour, salt, flavor enhancer, monosodium glutamate, shallot, pepper, garlic, curry powder, hydrolyzed soy protein&hellip;",
+            "content_html": "<p><a href=\"https://mirzailham.com/indogoods\" class=\"btn\">Order Item</a></p>\n<p> </p>\n<p class=\"about__description\"><strong>Ingredients</strong><br>Wheat flour, tapioca flour, salt, flavor enhancer, monosodium glutamate, shallot, pepper, garlic, curry powder, hydrolyzed soy protein</p>\n<p class=\"about__description\"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>",
+            "image": "https://mirzailham.com/indogoods/media/posts/5/hlzq0d5i-2.png",
+            "author": {
+                "name": "IndoGoods"
+            },
+            "tags": [
+                   "Seasonings"
+            ],
+            "date_published": "2022-01-09T22:22:35+01:00",
+            "date_modified": "2022-01-10T09:20:29+01:00"
+        },
+        {
+            "id": "https://mirzailham.com/indogoods/halawa-mushroom.html",
+            "url": "https://mirzailham.com/indogoods/halawa-mushroom.html",
+            "title": "Halawa Mushroom",
+            "summary": "Order Item Ingredients Salt, sugar, flavor enhancer, mushroom, yeast extract, soy sauce, I+G Standard ISO 22000:2005 (food savety management) HAS&hellip;",
+            "content_html": "<p><a href=\"https://mirzailham.com/indogoods\" class=\"btn\">Order Item</a></p>\n<p> </p>\n<p class=\"about__description\"><strong>Ingredients</strong><br>Salt, sugar, flavor enhancer, mushroom, yeast extract, soy sauce, I+G</p>\n<p class=\"about__description\"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>",
+            "image": "https://mirzailham.com/indogoods/media/posts/4/mushroom.png",
+            "author": {
+                "name": "IndoGoods"
+            },
+            "tags": [
+                   "Seasonings"
+            ],
+            "date_published": "2022-01-09T22:20:48+01:00",
+            "date_modified": "2022-01-10T09:27:41+01:00"
+        },
+        {
+            "id": "https://mirzailham.com/indogoods/halawa-beef.html",
+            "url": "https://mirzailham.com/indogoods/halawa-beef.html",
+            "title": "Halawa Beef",
+            "summary": "Order Item Ingredients Salt, sugar, flavor enhancer, beef broth, pepper, garlic, shallot, coriander, and probiotic (hold up to 250°C) Standard&hellip;",
+            "content_html": "<p><a href=\"#INTERNAL_LINK#/post/null\" class=\"btn\">Order Item</a></p>\n<p> </p>\n<p class=\"about__description\"><strong>Ingredients</strong><br>Salt, sugar, flavor enhancer, beef broth, pepper, garlic, shallot, coriander, and probiotic (hold up to 250°C)</p>\n<p class=\"about__description\"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>",
+            "image": "https://mirzailham.com/indogoods/media/posts/3/beef.png",
+            "author": {
+                "name": "IndoGoods"
+            },
+            "tags": [
+                   "Seasonings"
+            ],
+            "date_published": "2022-01-09T22:18:05+01:00",
+            "date_modified": "2022-01-10T09:28:24+01:00"
+        },
+        {
+            "id": "https://mirzailham.com/indogoods/halawa-chicken.html",
+            "url": "https://mirzailham.com/indogoods/halawa-chicken.html",
+            "title": "Halawa Chicken",
+            "summary": "Order Item Ingredients Salt, sugar, flavor enhancer, chicken broth, pepper, garlic, shallot, and probiotic (hold up to 250°C) Standard ISO&hellip;",
+            "content_html": "<p><a href=\"#INTERNAL_LINK#/post/null\" class=\"btn\">Order Item</a></p>\n<p> </p>\n<p class=\"about__description\"><strong>Ingredients</strong><br>Salt, sugar, flavor enhancer, chicken broth, pepper, garlic, shallot, and probiotic (hold up to 250°C)</p>\n<p class=\"about__description\"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>",
+            "image": "https://mirzailham.com/indogoods/media/posts/2/chicken.png",
+            "author": {
+                "name": "IndoGoods"
+            },
+            "tags": [
+                   "Seasonings"
+            ],
+            "date_published": "2022-01-09T22:13:15+01:00",
+            "date_modified": "2022-01-10T09:29:13+01:00"
+        },
+        {
+            "id": "https://mirzailham.com/indogoods/halawa-pepper.html",
+            "url": "https://mirzailham.com/indogoods/halawa-pepper.html",
+            "title": "Halawa Pepper",
+            "summary": "Order Item Ingredients 100% pepper with additional probiotic Standard ISO 22000:2005 (food savety management) HAS 23000 (halal assurance system) ISO&hellip;",
+            "content_html": "<p><a href=\"#INTERNAL_LINK#/post/null\" class=\"btn\">Order Item</a></p>\n<p> </p>\n<p class=\"about__description\"><strong>Ingredients</strong><br>100% pepper with additional probiotic</p>\n<p class=\"about__description\"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>",
+            "image": "https://mirzailham.com/indogoods/media/posts/1/pepper-2.png",
+            "author": {
+                "name": "IndoGoods"
+            },
+            "tags": [
+                   "Spices"
+            ],
+            "date_published": "2022-01-09T18:18:09+01:00",
+            "date_modified": "2022-01-10T09:34:23+01:00"
+        }
+    ]
+}
