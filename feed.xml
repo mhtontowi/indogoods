@@ -3,7 +3,7 @@
     <title>IndoGoods</title>
     <link href="https://mirzailham.com/indogoods/feed.xml" rel="self" />
     <link href="https://mirzailham.com/indogoods" />
-    <updated>2022-01-10T18:10:59+01:00</updated>
+    <updated>2022-01-11T18:47:28+01:00</updated>
     <author>
         <name>IndoGoods</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://mirzailham.com/indogoods/privacy-policy.html"/>
         <id>https://mirzailham.com/indogoods/privacy-policy.html</id>
 
-        <updated>2022-01-10T18:10:59+01:00</updated>
+        <updated>2022-01-11T18:47:28+01:00</updated>
             <summary>
                 <![CDATA[
                     This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use&hellip;
@@ -103,22 +103,17 @@
 <p>We use both Session and Persistent Cookies for the purposes set out below:</p>
 <ul>
 <li>
-<p><strong>Necessary / Essential Cookies</strong></p>
+<p><strong>Essential Cookies</strong></p>
 <p>Type: Session Cookies</p>
 <p>Administered by: Us</p>
 <p>Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.</p>
 </li>
 <li>
-<p><strong>Cookies Policy / Notice Acceptance Cookies</strong></p>
+<p><strong>Analytics Cookies</strong></p>
 <p>Type: Persistent Cookies</p>
 <p>Administered by: Us</p>
 <p>Purpose: These Cookies identify if users have accepted the use of cookies on the Website.</p>
-</li>
-<li>
-<p><strong>Functionality Cookies</strong></p>
-<p>Type: Persistent Cookies</p>
-<p>Administered by: Us</p>
-<p>Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.</p>
+<p>Purpose: These Cookies allow us to locate your location when You visit the Website. The purpose of these Cookies is to provide Us with data on how many traffics we get on our Website and to locate from which point the traffic originates.</p>
 </li>
 </ul>
 <p>For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy or the Cookies section of our Privacy Policy.</p>
@@ -129,22 +124,7 @@
 <p><strong>To provide and maintain our Service</strong>, including to monitor the usage of our Service.</p>
 </li>
 <li>
-<p><strong>To manage Your Account:</strong> to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.</p>
-</li>
-<li>
-<p><strong>For the performance of a contract:</strong> the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.</p>
-</li>
-<li>
-<p><strong>To contact You:</strong> To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.</p>
-</li>
-<li>
-<p><strong>To provide You</strong> with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.</p>
-</li>
-<li>
-<p><strong>To manage Your requests:</strong> To attend and manage Your requests to Us.</p>
-</li>
-<li>
-<p><strong>For business transfers:</strong> We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.</p>
+<p><strong>For the performance of a contract:</strong> the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.</p>
 </li>
 <li>
 <p><strong>For other purposes</strong>: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.</p>
