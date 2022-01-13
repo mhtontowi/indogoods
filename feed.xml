@@ -3,12 +3,48 @@
     <title>IndoGoods</title>
     <link href="https://mirzailham.com/indogoods/feed.xml" rel="self" />
     <link href="https://mirzailham.com/indogoods" />
-    <updated>2022-01-13T07:09:32+01:00</updated>
+    <updated>2022-01-13T15:44:19+01:00</updated>
     <author>
         <name>IndoGoods</name>
     </author>
     <id>https://mirzailham.com/indogoods</id>
 
+    <entry>
+        <title>Career</title>
+        <author>
+            <name>IndoGoods</name>
+        </author>
+        <link href="https://mirzailham.com/indogoods/career.html"/>
+        <id>https://mirzailham.com/indogoods/career.html</id>
+
+        <updated>2022-01-13T15:44:19+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Submit Your Products</title>
+        <author>
+            <name>IndoGoods</name>
+        </author>
+        <link href="https://mirzailham.com/indogoods/submit-your-products.html"/>
+        <id>https://mirzailham.com/indogoods/submit-your-products.html</id>
+
+        <updated>2022-01-13T15:42:52+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Partnership Application</title>
+        <author>
+            <name>IndoGoods</name>
+        </author>
+        <link href="https://mirzailham.com/indogoods/partnership-application.html"/>
+        <id>https://mirzailham.com/indogoods/partnership-application.html</id>
+
+        <updated>2022-01-13T15:43:03+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Privacy Policy</title>
         <author>
@@ -417,84 +453,6 @@
                 <p><a href="https://mirzailham.com/indogoods" class="btn">Order Item</a></p>
 <p> </p>
 <p class="about__description"><strong>Ingredients</strong><br>Wheat flour, tapioca flour, salt, flavor enhancer, monosodium glutamate, shallot, pepper, garlic, curry powder, hydrolyzed soy protein</p>
-<p class="about__description"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Halawa Mushroom</title>
-        <author>
-            <name>IndoGoods</name>
-        </author>
-        <link href="https://mirzailham.com/indogoods/halawa-mushroom.html"/>
-        <id>https://mirzailham.com/indogoods/halawa-mushroom.html</id>
-            <category term="Seasonings"/>
-
-        <updated>2022-01-10T14:47:17+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://mirzailham.com/indogoods/media/posts/4/mushroom.png" alt="" />
-                    Order Item Ingredients Salt, sugar, flavor enhancer, mushroom, yeast extract, soy sauce, I+G Standard ISO 22000:2005 (food savety management) HAS&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://mirzailham.com/indogoods/media/posts/4/mushroom.png" alt="" />
-                <p><a href="https://mirzailham.com/indogoods" class="btn">Order Item</a></p>
-<p> </p>
-<p class="about__description"><strong>Ingredients</strong><br>Salt, sugar, flavor enhancer, mushroom, yeast extract, soy sauce, I+G</p>
-<p class="about__description"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Halawa Beef</title>
-        <author>
-            <name>IndoGoods</name>
-        </author>
-        <link href="https://mirzailham.com/indogoods/halawa-beef.html"/>
-        <id>https://mirzailham.com/indogoods/halawa-beef.html</id>
-            <category term="Seasonings"/>
-
-        <updated>2022-01-10T14:46:47+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://mirzailham.com/indogoods/media/posts/3/beef.png" alt="" />
-                    Order Item Ingredients Salt, sugar, flavor enhancer, beef broth, pepper, garlic, shallot, coriander, and probiotic (hold up to 250°C) Standard&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://mirzailham.com/indogoods/media/posts/3/beef.png" alt="" />
-                <p><a href="#INTERNAL_LINK#/post/null" class="btn">Order Item</a></p>
-<p> </p>
-<p class="about__description"><strong>Ingredients</strong><br>Salt, sugar, flavor enhancer, beef broth, pepper, garlic, shallot, coriander, and probiotic (hold up to 250°C)</p>
-<p class="about__description"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Halawa Chicken</title>
-        <author>
-            <name>IndoGoods</name>
-        </author>
-        <link href="https://mirzailham.com/indogoods/halawa-chicken.html"/>
-        <id>https://mirzailham.com/indogoods/halawa-chicken.html</id>
-            <category term="Seasonings"/>
-
-        <updated>2022-01-10T14:46:11+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://mirzailham.com/indogoods/media/posts/2/chicken.png" alt="" />
-                    Order Item Ingredients Salt, sugar, flavor enhancer, chicken broth, pepper, garlic, shallot, and probiotic (hold up to 250°C) Standard ISO&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://mirzailham.com/indogoods/media/posts/2/chicken.png" alt="" />
-                <p><a href="#INTERNAL_LINK#/post/null" class="btn">Order Item</a></p>
-<p> </p>
-<p class="about__description"><strong>Ingredients</strong><br>Salt, sugar, flavor enhancer, chicken broth, pepper, garlic, shallot, and probiotic (hold up to 250°C)</p>
 <p class="about__description"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>
             ]]>
         </content>

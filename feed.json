@@ -10,6 +10,42 @@
     },
     "items": [
         {
+            "id": "https://mirzailham.com/indogoods/career.html",
+            "url": "https://mirzailham.com/indogoods/career.html",
+            "title": "Career",
+            "author": {
+                "name": "IndoGoods"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-13T15:44:19+01:00",
+            "date_modified": "2022-01-13T15:44:19+01:00"
+        },
+        {
+            "id": "https://mirzailham.com/indogoods/submit-your-products.html",
+            "url": "https://mirzailham.com/indogoods/submit-your-products.html",
+            "title": "Submit Your Products",
+            "author": {
+                "name": "IndoGoods"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-13T15:42:52+01:00",
+            "date_modified": "2022-01-13T15:42:52+01:00"
+        },
+        {
+            "id": "https://mirzailham.com/indogoods/partnership-application.html",
+            "url": "https://mirzailham.com/indogoods/partnership-application.html",
+            "title": "Partnership Application",
+            "author": {
+                "name": "IndoGoods"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-13T15:41:59+01:00",
+            "date_modified": "2022-01-13T15:43:03+01:00"
+        },
+        {
             "id": "https://mirzailham.com/indogoods/privacy-policy.html",
             "url": "https://mirzailham.com/indogoods/privacy-policy.html",
             "title": "Privacy Policy",
@@ -110,54 +146,6 @@
             ],
             "date_published": "2022-01-09T22:22:35+01:00",
             "date_modified": "2022-01-10T14:48:34+01:00"
-        },
-        {
-            "id": "https://mirzailham.com/indogoods/halawa-mushroom.html",
-            "url": "https://mirzailham.com/indogoods/halawa-mushroom.html",
-            "title": "Halawa Mushroom",
-            "summary": "Order Item Ingredients Salt, sugar, flavor enhancer, mushroom, yeast extract, soy sauce, I+G Standard ISO 22000:2005 (food savety management) HAS&hellip;",
-            "content_html": "<p><a href=\"https://mirzailham.com/indogoods\" class=\"btn\">Order Item</a></p>\n<p> </p>\n<p class=\"about__description\"><strong>Ingredients</strong><br>Salt, sugar, flavor enhancer, mushroom, yeast extract, soy sauce, I+G</p>\n<p class=\"about__description\"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>",
-            "image": "https://mirzailham.com/indogoods/media/posts/4/mushroom.png",
-            "author": {
-                "name": "IndoGoods"
-            },
-            "tags": [
-                   "Seasonings"
-            ],
-            "date_published": "2022-01-09T22:20:48+01:00",
-            "date_modified": "2022-01-10T14:47:17+01:00"
-        },
-        {
-            "id": "https://mirzailham.com/indogoods/halawa-beef.html",
-            "url": "https://mirzailham.com/indogoods/halawa-beef.html",
-            "title": "Halawa Beef",
-            "summary": "Order Item Ingredients Salt, sugar, flavor enhancer, beef broth, pepper, garlic, shallot, coriander, and probiotic (hold up to 250°C) Standard&hellip;",
-            "content_html": "<p><a href=\"#INTERNAL_LINK#/post/null\" class=\"btn\">Order Item</a></p>\n<p> </p>\n<p class=\"about__description\"><strong>Ingredients</strong><br>Salt, sugar, flavor enhancer, beef broth, pepper, garlic, shallot, coriander, and probiotic (hold up to 250°C)</p>\n<p class=\"about__description\"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>",
-            "image": "https://mirzailham.com/indogoods/media/posts/3/beef.png",
-            "author": {
-                "name": "IndoGoods"
-            },
-            "tags": [
-                   "Seasonings"
-            ],
-            "date_published": "2022-01-09T22:18:05+01:00",
-            "date_modified": "2022-01-10T14:46:47+01:00"
-        },
-        {
-            "id": "https://mirzailham.com/indogoods/halawa-chicken.html",
-            "url": "https://mirzailham.com/indogoods/halawa-chicken.html",
-            "title": "Halawa Chicken",
-            "summary": "Order Item Ingredients Salt, sugar, flavor enhancer, chicken broth, pepper, garlic, shallot, and probiotic (hold up to 250°C) Standard ISO&hellip;",
-            "content_html": "<p><a href=\"#INTERNAL_LINK#/post/null\" class=\"btn\">Order Item</a></p>\n<p> </p>\n<p class=\"about__description\"><strong>Ingredients</strong><br>Salt, sugar, flavor enhancer, chicken broth, pepper, garlic, shallot, and probiotic (hold up to 250°C)</p>\n<p class=\"about__description\"><strong>Standard</strong><br>ISO 22000:2005 (food savety management)<br>HAS 23000 (halal assurance system)<br>ISO 14001 (environment management)<br>OHSAS 18001 (health and security)</p>",
-            "image": "https://mirzailham.com/indogoods/media/posts/2/chicken.png",
-            "author": {
-                "name": "IndoGoods"
-            },
-            "tags": [
-                   "Seasonings"
-            ],
-            "date_published": "2022-01-09T22:13:15+01:00",
-            "date_modified": "2022-01-10T14:46:11+01:00"
         }
     ]
 }
